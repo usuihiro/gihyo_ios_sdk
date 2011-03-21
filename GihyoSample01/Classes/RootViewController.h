@@ -5,8 +5,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RootViewController : UIViewController {
-	UITextView *textView;
+@interface RootViewController : UITableViewController {
 }
 
 @end
